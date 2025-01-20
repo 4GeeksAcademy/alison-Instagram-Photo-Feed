@@ -1,0 +1,52 @@
+body{
+    background:lightgray;
+    width:100%;
+    padding:0px;
+    margin:0px;
+}
+
+.titulo{
+    background:white;
+    padding: 10px 70px;
+    text-align:center;
+    margin:0px;
+}
+
+.posts{
+    padding: 35px 70px;
+    margin:0px;
+    display:flex;
+    justify-content: center;
+}
+
+.contenedor{
+     width:30%;
+}
+
+.titulo-del-post{
+    background:white;
+    padding: 10px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:0px;
+}
+
+
+.imagen {
+    padding-bottom:0px;
+    margin:0px;
+    overflow:hidden;
+}
+
+.imagen img{
+    height:auto;
+    width: 100%;
+    margin:0px;
+}
+
+.descripcion{
+    background:white;
+    padding: 20px;
+    margin:0px;
+}
